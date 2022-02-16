@@ -1,3 +1,3 @@
 # todolist
 
-javascrtip todolist web application 
+javascript todolist web application 
